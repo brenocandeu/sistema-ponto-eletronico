@@ -38,6 +38,8 @@ public class PrincipalVIEW extends javax.swing.JFrame {
 
         desktopPane.setMinimumSize(new java.awt.Dimension(1280, 720));
 
+        menuBar.setBackground(new java.awt.Color(245, 247, 250));
+
         itemMenuEmmpresa.setMnemonic('f');
         itemMenuEmmpresa.setText("Cadastro");
 
